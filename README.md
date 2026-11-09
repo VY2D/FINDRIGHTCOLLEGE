@@ -6,7 +6,7 @@ FindRightCollege is a college and career guidance platform that helps students a
 
 🌐 **Website:** https://findrightcollege.com
 📲 **WhatsApp (free guidance):** +91 72360 32906
-📧 **Email:** findrightcollegeofficial@gmail.com
+📧 **Email:** findrightdegreeonline@gmail.com
 📸 **Instagram:** [@findrightcollege](https://www.instagram.com/findrightcollege/) · Online degrees: [@findrightdegreeonline](https://www.instagram.com/findrightdegreeonline/)
 
 ---
