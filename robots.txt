@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://findrightcollege.com/sitemap.xml
